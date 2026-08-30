@@ -7,6 +7,7 @@
 | **Naturaleza**          | Documento histórico                              |
 | **Motto**               | _Construimos conocimiento para construir mejor._ |
 | **Idioma**              | Español — edición original                       |
+| **Autor**               | Ing. Luis Angelo Hidalgo Arancibia               |
 
 
 ---
@@ -29,7 +30,7 @@ _No nació al escribir la primera línea de código._
 
 _Nació cuando un ingeniero tomó una decisión consciente: que el conocimiento acumulado durante toda una vida ya no dependería únicamente de la memoria, sino de una arquitectura diseñada para preservarlo, comprenderlo y hacerlo crecer._
 
-_A su lado, Mathyas, un Schnauzer profundamente dormido, ajeno a diagramas, ADR y arquitecturas, aportaba algo que también forma parte de toda buena ingeniería: la calma necesaria para pensar con claridad._
+_A su lado, Mathias, un Schnauzer profundamente dormido, ajeno a diagramas, ADR y arquitecturas, aportaba algo que también forma parte de toda buena ingeniería: la calma necesaria para pensar con claridad._
 
 _La lluvia marcaba el tiempo exterior._
 
@@ -127,7 +128,7 @@ Por ello:
 - no debe corregirse conceptualmente desde la perspectiva del EOS actual;
 - no debe convertirse en una explicación retrospectiva de la arquitectura madura.
 
-Si en el futuro descubrimos que EOS cambió radicalmente respecto de lo que imaginábamos el **21 de julio de 2026**, eso no constituye un error del Acta.
+Si en el futuro se descubre que EOS cambió radicalmente respecto de lo que se imaginaba el **21 de julio de 2026**, eso no constituye un error del Acta.
 
 **Es precisamente historia.**
 
@@ -141,25 +142,3 @@ La evolución deberá registrarse en:
 El Acta permanece como testimonio del momento original.
 
 ---
-
-### Y hay algo que ahora se ve con mucha claridad
-
-Después de construir `00–04`, este documento adquiere incluso **más valor**.
-
-Mira la secuencia:
-
-> **00 — Overview:** _Esto es EOS._
-
-> **01 — Foundation:** _Esto es por lo que debe existir._
-
-> **02 — Vision:** _Esto es aquello en lo que queremos que se convierta._
-
-> **03 — Mission:** _Esto es lo que debe hacer permanentemente._
-
-> **04 — Constitution:** _Esto es lo que debemos proteger mientras evoluciona._
-
-> **05 — Acta de Nacimiento:** _Y esto es el momento en que todo comenzó._
-
-Eso último **no puede ser reemplazado por una especificación técnica**.
-
-El 21 de julio de 2026 no es simplemente una fecha administrativa. Es el **punto cero histórico del EOS**.

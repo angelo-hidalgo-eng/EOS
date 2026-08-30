@@ -1,0 +1,20 @@
+# ============================================================
+# EOS — Git Ignore
+# ============================================================
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+
+# Local editor / IDE configuration
+.vscode/
+.idea/
+
+# Obsidian local configuration
+.obsidian/
+

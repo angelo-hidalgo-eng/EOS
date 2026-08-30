@@ -9,6 +9,7 @@
 | **Origen del EOS**       | 21 de julio de 2026                                                       |
 | **Naturaleza**           | Documento operativo                                                       |
 | **Idioma**               | Español — edición original                                                |
+| **Autor**                | Ing. Luis Angelo Hidalgo Arancibia                                        |
 
 
 ---

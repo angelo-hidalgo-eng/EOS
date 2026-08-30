@@ -8,6 +8,7 @@
 | **Establecido**           | Agosto de 2026                              |
 | **Origen del EOS**        | 21 de julio de 2026                         |
 | **Idioma**                | Español — edición original                  |
+| **Autor**                 | Ing. Luis Angelo Hidalgo Arancibia          |
 
 
 > **Construir una infraestructura personal de conocimiento capaz de acompañar una vida de ingeniería, preservando su experiencia, haciendo acumulativo su aprendizaje y aumentando progresivamente su capacidad para crear, comprender y resolver problemas.**

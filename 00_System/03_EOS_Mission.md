@@ -8,6 +8,7 @@
 | **Establecido**           | Agosto de 2026                                     |
 | **Origen del EOS**        | 21 de julio de 2026                                |
 | **Idioma**                | Español — edición original                         |
+| **Autor**                 | Ing. Luis Angelo Hidalgo Arancibia                 |
 
 
 > **Transformar sistemáticamente la experiencia de ingeniería en conocimiento contextualizado, trazable, relacionado y reutilizable, preservándolo a través del tiempo para aumentar continuamente la capacidad de comprender, decidir, crear y resolver problemas de ingeniería.**

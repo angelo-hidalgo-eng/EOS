@@ -8,6 +8,7 @@
 | **Establecido**           | Agosto de 2026                                                              |
 | **Origen del EOS**        | 21 de julio de 2026                                                         |
 | **Idioma**                | Español — edición original                                                  |
+| **Autor**                 | Ing. Luis Angelo Hidalgo Arancibia                                          |
 
 
 > **El EOS existe porque la experiencia de ingeniería tiene valor, pero ese valor disminuye cuando el conocimiento pierde su contexto, su historia y la capacidad de ser recuperado.**

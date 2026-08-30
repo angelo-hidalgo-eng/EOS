@@ -8,6 +8,7 @@
 | **Establecido**           | Agosto de 2026                                                                                  |
 | **Origen del EOS**        | 21 de julio de 2026                                                                             |
 | **Idioma**                | Español — edición original                                                                      |
+| **Autor**                 | Ing. Luis Angelo Hidalgo Arancibia                                                              |
 
 
 > **La Constitución del EOS protege aquello que debe permanecer estable para que el sistema pueda evolucionar sin perder su identidad.**

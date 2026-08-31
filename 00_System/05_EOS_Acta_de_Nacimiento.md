@@ -36,7 +36,7 @@ _La lluvia marcaba el tiempo exterior._
 
 _Las preguntas marcaban el tiempo interior._
 
-_Y entre ambas comenzó la construcción de una obra cuyo objetivo no era desarrollar un proyecto más, sino dar forma a una vida de aprendizaje, reflexión y creación tecnológica._
+_Y entre ambos comenzó la construcción de una obra cuyo objetivo no era desarrollar un proyecto más, sino dar forma a una vida de aprendizaje, reflexión y creación tecnológica._
 
 _Desde ese día, cada decisión importante tendría un propósito, cada experiencia buscaría convertirse en conocimiento y cada proyecto contribuiría a una biblioteca que crecería junto con el ingeniero que la construía._
 

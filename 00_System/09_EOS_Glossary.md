@@ -182,7 +182,7 @@ Representación de una observación, medición, valor o hecho sin necesariamente
 
 Ejemplo:
 
-> `3,3 V`
+> `3,3 Volts`
 
 es un dato.
 

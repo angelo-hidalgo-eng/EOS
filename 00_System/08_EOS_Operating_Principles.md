@@ -398,6 +398,20 @@ Una buena documentación debe permitir reconstruir:
 
 > **El sistema debe permitir volver a pensar donde se dejó de pensar.**
 
+La reentrada no debe limitarse a comprender qué ocurrió.
+
+Debe permitir recuperar, cuando sea necesario:
+
+- dónde se encuentra el proyecto;
+- cuál es su estado actual;
+- qué funciona;
+- qué no funciona;
+- qué decisiones siguen vigentes;
+- qué problemas permanecen abiertos;
+- y cuál sería el siguiente punto razonable de trabajo.
+
+> **La documentación debe permitir reconstruir el contexto suficiente para continuar.**
+
 ---
 
 # 23. Principio de continuidad

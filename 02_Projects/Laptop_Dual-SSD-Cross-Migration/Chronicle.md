@@ -29,3 +29,7 @@ El estado objetivo definido para el proyecto es:
 Ambos sistemas operativos deben conservarse.
 
 En esta etapa no se ha modificado ninguno de los dos SSD.
+
+## 05-09-2026 — Inicio de Discovery
+
+El proyecto entra en la fase de Discovery. Antes de realizar cualquier operación de migración se procederá a inspeccionar y documentar el estado real de ambos SSD. Esta fase tiene como objetivo obtener la información necesaria para determinar la viabilidad de la migración y establecer una ruta de recuperación antes de realizar cualquier operación potencialmente destructiva. No se modifica ninguna de las dos unidades durante esta fase.

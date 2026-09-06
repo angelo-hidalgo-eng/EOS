@@ -85,14 +85,18 @@ después del intercambio físico de las unidades.
 
 ## Estado Actual
 
-Fase de descubrimiento y planificación.
+El proyecto se encuentra en fase de Discovery. No se ha modificado ninguno de los dos SSD. El objetivo de esta fase es determinar el estado real de ambas unidades antes de realizar cualquier operación de migración. Se debe inspeccionar y documentar, como mínimo:
+* identificación física de las unidades;
+* capacidad real;
+* tabla de particiones;
+* particiones EFI y de sistema;
+* sistemas de archivos;
+* espacio utilizado y disponible;
+* estructura de arranque;
+* configuración relevante de cada sistema operativo;
+* cualquier condición que pueda afectar la migración.
 
-No se ha modificado ninguno de los dos SSD.
-
-El siguiente paso es inspeccionar físicamente ambas unidades y documentar su
-configuración real de particiones, sistemas de archivos, espacio utilizado,
-estructura de arranque y demás información relevante antes de realizar
-cualquier operación de migración.
+No se realizará ninguna operación destructiva durante esta fase.
 
 ## Decisiones
 
@@ -107,7 +111,7 @@ cualquier operación de migración.
 
 ## Información Relacionada
 
-- [[Chronicle]]
+[[Chronicle]]
 
 ## Estado
 
